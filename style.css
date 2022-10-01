@@ -1,0 +1,27 @@
+.campuslife_1{
+border:1px solid lightgrey;
+}
+.campuslife_2{
+    border:1px solid lightgrey;
+}
+.campuslife_3{
+        border:1px solid lightgrey;
+}
+.campuslife_1 img{
+width: 100%;
+}
+.campuslife_2 img{
+    width: 100%;
+}
+.campuslife_3 img{
+    width: 100%;
+}
+.campuslife_1 h5 , .campuslife_1 p{
+margin: 20px;
+}
+.campuslife_2 h5 , .campuslife_2 p{
+    margin: 20px;
+}
+.campuslife_3 h5 , .campuslife_3 p{
+    margin: 20px;
+}
